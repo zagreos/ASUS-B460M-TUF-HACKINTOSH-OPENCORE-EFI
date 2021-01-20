@@ -23,7 +23,7 @@
 
 **系统**：MAC OS Catalina 10.15.7
 
-[iMac19,1](https://github.com/SeanChan0901/ASUS-B460M-TUF-HACKINTOSH-OPENCORE-EFI/image/system.png)
+![iMac19,1](https://github.com/SeanChan0901/ASUS-B460M-TUF-HACKINTOSH-OPENCORE-EFI/tree/master/image/system.png)
 
 ## 可正常工作
 
@@ -34,13 +34,13 @@
 - [x] FaceTime / iMessage
 - [x] Apple Music / Apple TV Plus
 
-[sidcar](https://github.com/SeanChan0901/ASUS-B460M-TUF-HACKINTOSH-OPENCORE-EFI/image/sidcar.png)
+![sidcar](https://github.com/SeanChan0901/ASUS-B460M-TUF-HACKINTOSH-OPENCORE-EFI/tree/master/image/sider.png)
 
-[hevc](https://github.com/SeanChan0901/ASUS-B460M-TUF-HACKINTOSH-OPENCORE-EFI/image/hevc.png)
+![hevc](https://github.com/SeanChan0901/ASUS-B460M-TUF-HACKINTOSH-OPENCORE-EFI/tree/master/image/hevc.png)
 
-[wifi & bluetooth](https://github.com/SeanChan0901/ASUS-B460M-TUF-HACKINTOSH-OPENCORE-EFI/image/wifi.png)
+![wifi && bluetooth](https://github.com/SeanChan0901/ASUS-B460M-TUF-HACKINTOSH-OPENCORE-EFI/tree/master/image/wifi.png)
 
-[wifi & bluetooth](https://github.com/SeanChan0901/ASUS-B460M-TUF-HACKINTOSH-OPENCORE-EFI/image/wifi2.png)
+![wifi && bluetooth](https://github.com/SeanChan0901/ASUS-B460M-TUF-HACKINTOSH-OPENCORE-EFI/tree/master/image/wifi2.png)
 
 ## 不正常工作
 
