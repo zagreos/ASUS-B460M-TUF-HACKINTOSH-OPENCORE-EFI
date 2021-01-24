@@ -39,7 +39,7 @@
 
 ![hevc](https://github-image-1301846849.cos.ap-guangzhou.myqcloud.com/EFI/image/hevc.png)
 
-![wifi && bluetooth](https://github-image-1301846849.cos.ap-guangzhou.myqcloud.com/EFI/image/BCM943602CS.png)
+![wifi && bluetooth](https://github.com/SeanChan0901/ASUS-B460M-TUF-HACKINTOSH-OPENCORE-EFI/blob/master/image/BCM943602CS.png?raw=true)
 
 ![wifi && bluetooth](https://github-image-1301846849.cos.ap-guangzhou.myqcloud.com/EFI/image/wifi2.png)
 
