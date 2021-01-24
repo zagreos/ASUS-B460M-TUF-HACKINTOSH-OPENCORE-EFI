@@ -31,6 +31,7 @@
 - [x] 显卡（核显）/ 硬解 4K（HEVC + H.264）
 - [x] WiFi（PCI-E 设备） / 蓝牙（PEI-E 载 USB 设备）
 - [x] 隔空投送 / 接力 / 随航
+- [x] USB定制
 - [x] FaceTime / iMessage
 - [x] Apple Music / Apple TV Plus
 
@@ -38,9 +39,11 @@
 
 ![hevc](https://github-image-1301846849.cos.ap-guangzhou.myqcloud.com/EFI/image/hevc.png)
 
-![wifi && bluetooth](https://github-image-1301846849.cos.ap-guangzhou.myqcloud.com/EFI/image/wifi.png)
+![wifi && bluetooth](https://github-image-1301846849.cos.ap-guangzhou.myqcloud.com/EFI/image/BCM943602CS.png)
 
 ![wifi && bluetooth](https://github-image-1301846849.cos.ap-guangzhou.myqcloud.com/EFI/image/wifi2.png)
+
+![USB](https://github-image-1301846849.cos.ap-guangzhou.myqcloud.com/EFI/image/USBPort.png)
 
 ## 不正常工作
 
